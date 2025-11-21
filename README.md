@@ -8,12 +8,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=built-different-13&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
-  <img src="https://img.shields.io/github/followers/shriram7813?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
-  <img src="https://img.shields.io/github/stars/shriram7813?color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/shriram7813/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+  <img src="https://img.shields.io/github/followers/hoodmentality?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
+  <img src="https://img.shields.io/github/stars/hoodmentality?color=0e75b6&style=flat-square" alt="Stars" height="21" />
+  <img src="https://img.shields.io/github/forks/hoodmentality/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shriram7813&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="Shriram" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoodmentality&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="Shriram" /></a> </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -93,11 +93,11 @@
 <h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
 	
-<img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriram7813&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="0xabdulkhalid"/>
+<img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoodmentality&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="0xabdulkhalid"/>
 
-<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=shriram7813&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
+<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=hoodmentality&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
 
-<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=shriram7813&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=hoodmentality&theme=highcontrast" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -119,7 +119,7 @@
 
 <h2><a id="graph"></a>📈 Contributions Graph</h2>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shriram7813&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoodmentality&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
