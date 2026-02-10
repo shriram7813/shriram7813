@@ -46,7 +46,7 @@
 
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 
-<a href="https://https://www.linkedin.com/in/shriram-rai-25636b246/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
+<a href="https://https://www.linkedin.com/in/raishriram/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
 <a href="https://t.me/F4xAlt" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
 &nbsp;
