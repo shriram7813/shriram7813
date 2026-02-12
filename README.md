@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=built-different-13&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
-  <img src="https://img.shields.io/github/followers/hoodmentality?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
-  <img src="https://img.shields.io/github/stars/hoodmentality?color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/hoodmentality/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+  <img src="https://img.shields.io/github/followers/shriram7813?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
+  <img src="https://img.shields.io/github/stars/shriram7813?color=0e75b6&style=flat-square" alt="Stars" height="21" />
+  <img src="https://img.shields.io/github/forks/shriram7813/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
