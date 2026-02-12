@@ -95,7 +95,7 @@
 
 <img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=hoodmentality&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hoodmentality)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shriram7813)](https://git.io/streak-stats)
 
 
 </div>
